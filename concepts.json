@@ -1,0 +1,365 @@
+[
+    {
+        "name": "actor",
+        "parents": [
+            "object"
+        ]
+    },
+    {
+        "name": "area of expertise",
+        "parents": [
+            "object"
+        ]
+    },
+    {
+        "name": "article",
+        "parents": [
+            "publication"
+        ]
+    },
+    {
+        "name": "assistant professor",
+        "parents": [
+            "professor"
+        ]
+    },
+    {
+        "name": "associate professor",
+        "parents": [
+            "professor"
+        ]
+    },
+    {
+        "name": "book",
+        "parents": [
+            "publication"
+        ]
+    },
+    {
+        "name": "book chapter",
+        "parents": [
+            "article"
+        ]
+    },
+    {
+        "name": "BS student",
+        "parents": [
+            "undergraduate student"
+        ]
+    },
+    {
+        "name": "company",
+        "parents": [
+            "organization"
+        ]
+    },
+    {
+        "name": "company employee",
+        "parents": [
+            "employee"
+        ]
+    },
+    {
+        "name": "computer",
+        "parents": [
+            "object"
+        ]
+    },
+    {
+        "name": "Computer Science",
+        "parents": [
+            "area of expertise"
+        ]
+    },
+    {
+        "name": "conference paper",
+        "parents": [
+            "article"
+        ]
+    },
+    {
+        "name": "conference proceedings",
+        "parents": [
+            "publication"
+        ]
+    },
+    {
+        "name": "criterion",
+        "parents": [
+            "object"
+        ]
+    },
+    {
+        "name": "educational organization",
+        "parents": [
+            "organization"
+        ]
+    },
+    {
+        "name": "employee",
+        "parents": [
+            "person"
+        ]
+    },
+    {
+        "name": "faculty member",
+        "parents": [
+            "university employee"
+        ]
+    },
+    {
+        "name": "faculty position",
+        "parents": [
+            "university position"
+        ]
+    },
+    {
+        "name": "federal government organization",
+        "parents": [
+            "government organization"
+        ]
+    },
+    {
+        "name": "full professor",
+        "parents": [
+            "professor"
+        ]
+    },
+    {
+        "name": "government employee",
+        "parents": [
+            "employee"
+        ]
+    },
+    {
+        "name": "government organization",
+        "parents": [
+            "organization"
+        ]
+    },
+    {
+        "name": "graduate student",
+        "parents": [
+            "student"
+        ]
+    },
+    {
+        "name": "honorary position",
+        "parents": [
+            "university position"
+        ]
+    },
+    {
+        "name": "instructor",
+        "parents": [
+            "faculty member"
+        ]
+    },
+    {
+        "name": "journal",
+        "parents": [
+            "publication",
+            "personal item"
+        ]
+    },
+    {
+        "name": "journal paper",
+        "parents": [
+            "article"
+        ]
+    },
+    {
+        "name": "long-term faculty position",
+        "parents": [
+            "faculty position"
+        ]
+    },
+    {
+        "name": "Mathematics",
+        "parents": [
+            "area of expertise"
+        ]
+    },
+    {
+        "name": "medium-term faculty position",
+        "parents": [
+            "faculty position"
+        ]
+    },
+    {
+        "name": "MS student",
+        "parents": [
+            "graduate student"
+        ]
+    },
+    {
+        "name": "object",
+        "parents": []
+    },
+    {
+        "name": "organization",
+        "parents": [
+            "actor"
+        ]
+    },
+    {
+        "name": "person",
+        "parents": [
+            "actor"
+        ]
+    },
+    {
+        "name": "personal item",
+        "parents": []
+    },
+    {
+        "name": "PhD advisor",
+        "parents": [
+            "faculty member"
+        ]
+    },
+    {
+        "name": "PhD dissertation",
+        "parents": [
+            "publication"
+        ]
+    },
+    {
+        "name": "PhD student",
+        "parents": [
+            "graduate student"
+        ]
+    },
+    {
+        "name": "Physics",
+        "parents": [
+            "area of expertise"
+        ]
+    },
+    {
+        "name": "position",
+        "parents": [
+            "object"
+        ]
+    },
+    {
+        "name": "professor",
+        "parents": [
+            "faculty member"
+        ]
+    },
+    {
+        "name": "publication",
+        "parents": [
+            "object"
+        ]
+    },
+    {
+        "name": "research assistant professor",
+        "parents": [
+            "research professor"
+        ]
+    },
+    {
+        "name": "research associate professor",
+        "parents": [
+            "research professor"
+        ]
+    },
+    {
+        "name": "research full professor",
+        "parents": [
+            "research professor"
+        ]
+    },
+    {
+        "name": "research professor",
+        "parents": [
+            "faculty member"
+        ]
+    },
+    {
+        "name": "short-term faculty position",
+        "parents": [
+            "faculty position"
+        ]
+    },
+    {
+        "name": "staff member",
+        "parents": [
+            "university employee"
+        ]
+    },
+    {
+        "name": "staff position",
+        "parents": [
+            "university position"
+        ]
+    },
+    {
+        "name": "state",
+        "parents": [
+            "object"
+        ]
+    },
+    {
+        "name": "store",
+        "parents": [
+            "object"
+        ]
+    },
+    {
+        "name": "student",
+        "parents": [
+            "person"
+        ]
+    },
+    {
+        "name": "tablet computer",
+        "parents": [
+            "computer"
+        ]
+    },
+    {
+        "name": "undergraduate student",
+        "parents": [
+            "student"
+        ]
+    },
+    {
+        "name": "university",
+        "parents": [
+            "educational organization"
+        ]
+    },
+    {
+        "name": "university employee",
+        "parents": [
+            "employee"
+        ]
+    },
+    {
+        "name": "university position",
+        "parents": [
+            "position"
+        ]
+    },
+    {
+        "name": "university research center",
+        "parents": [
+            "university research unit"
+        ]
+    },
+    {
+        "name": "university research lab",
+        "parents": [
+            "university research unit"
+        ]
+    },
+    {
+        "name": "university research unit",
+        "parents": [
+            "organization"
+        ]
+    }
+]
